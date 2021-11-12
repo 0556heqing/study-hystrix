@@ -1,0 +1,4 @@
+rootProject.name = 'study-hystrix'
+include 'hystrix-server'
+include 'hystrix-client'
+
